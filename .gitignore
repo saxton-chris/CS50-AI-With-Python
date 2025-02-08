@@ -1,0 +1,4 @@
+venv
+*.zip
+degrees/large
+degrees/small
